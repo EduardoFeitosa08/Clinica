@@ -33,6 +33,7 @@ public class Clinica {
 		p2.telefone = "(11)98888-8888";
 		p2.estaInternado = false;
 		
+		
 		//Mostrar dados do Paciente
 		p1.mostrarFichaPaciente();
 		p2.mostrarFichaPaciente();
